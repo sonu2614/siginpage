@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_siginpage/static/css/main.89ff69f1.css",
+    "main.js": "/react_siginpage/static/js/main.1f6de5eb.js",
+    "index.html": "/react_siginpage/index.html",
+    "main.89ff69f1.css.map": "/react_siginpage/static/css/main.89ff69f1.css.map",
+    "main.1f6de5eb.js.map": "/react_siginpage/static/js/main.1f6de5eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ff69f1.css",
+    "static/js/main.1f6de5eb.js"
+  ]
+}
